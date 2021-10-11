@@ -1,3 +1,11 @@
 .title {
-  color: #02ccba;
+  color: white;
+}
+.sub {
+	color:white;
+}
+
+body {
+	background-image:url(top.png);
+	background-size:cover;
 }
